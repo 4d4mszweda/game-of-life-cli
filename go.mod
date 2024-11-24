@@ -1,3 +1,3 @@
-module github.com/4d4mszweda/game-of-life-cli
+module github.com/4d4mszweda/hero-log-cli
 
 go 1.23.2
